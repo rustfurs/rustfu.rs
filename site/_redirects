@@ -1,0 +1,9 @@
+# Redirect from www.rustfu.rs to rustfu.rs
+http://www.rustfu.rs/  https://rustfu.rs 301!
+https://www.rustfu.rs/ https://rustfu.rs 301!
+
+# Redirect from plaintext to HTTPS
+http://rustfu.rs/* https://rustfu.rs/:splat 301!
+
+# Temporary redirect to wiki.rustfu.rs
+http://rustfu.rs/  https://wiki.rustfu.rs/ 307!
