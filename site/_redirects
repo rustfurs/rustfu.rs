@@ -10,4 +10,4 @@ https://www.rustfu.rs/ https://rustfu.rs 301!
 http://rustfu.rs/* https://rustfu.rs/:splat 301!
 
 # Temporary redirect to wiki.rustfu.rs
-http://rustfu.rs/  https://wiki.rustfu.rs/ 307!
+https://rustfu.rs/  https://wiki.rustfu.rs/ 307!
