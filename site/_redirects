@@ -1,3 +1,7 @@
+# Redirect default Netlify subdomain to primary domain
+https://angry-blackwell-93ebf8.netlify.com/* https://rustfu.rs/:splat 301!
+http://angry-blackwell-93ebf8.netlify.com/*  https://rustfu.rs/:splat 301!
+
 # Redirect from www.rustfu.rs to rustfu.rs
 http://www.rustfu.rs/  https://rustfu.rs 301!
 https://www.rustfu.rs/ https://rustfu.rs 301!
